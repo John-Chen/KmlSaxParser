@@ -4,4 +4,5 @@
 预研中...暂无法使用
 
 解析方法已找到：http://www.cnblogs.com/John-Chen/p/4644103.html
+
 有需要解析kml的朋友不？一起？
